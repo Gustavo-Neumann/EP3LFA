@@ -1,0 +1,47 @@
+{
+  "nome": "Fulano de Tal",
+  "idade": 30,
+  "endereço": {
+    "rua": "Rua Principal",
+    "cidade": "São Paulo",
+    "estado": "SP"
+  },
+  "habilidades": [
+    "programação",
+    "design gráfico"
+  ],
+  "historico_educacional": [
+    {
+      "tipo": "ensino médio",
+      "instituição": "Escola Estadual XYZ",
+      "ano_conclusão": 2010
+    },
+    {
+      "tipo": "graduação",
+      "instituição": "Universidade ABC",
+      "ano_conclusão": 2015
+    }
+  ],
+  "projetos": [
+    [
+      {
+        "nome": "Projeto A",
+        "descricao": "Desenvolvimento de uma aplicação web."
+      },
+      {
+        "nome": "Projeto B",
+        "descricao": "Criação de um app móvel."
+      }
+    ],
+    [
+      {
+        "nome": "Projeto C",
+        "descricao": "Análise de dados."
+      },
+      {
+        "nome": "Projeto D",
+        "descricao": "Desenvolvimento de um sistema de recomendação."
+      }
+    ]
+  ]
+}
